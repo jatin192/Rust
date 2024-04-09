@@ -1,0 +1,30 @@
+Rust - use in solona Blockchain 
+no. txn    solona > Ethereum
+txm cost   solona < Ethereum 
+
+
+for complex program - use cargo
+cargo - package manager 
+$ cargo new folder_name
+$ cd folder_name
+$ cargo run
+
+
+for Simple program - use rustc
+rustc 1.rs 
+./1
+
+
+
+library
+io
+crates  -> 
+
+
+
+
+
+online compiler - https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+
+
